@@ -27,7 +27,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/c:\Users\pedro\OneDrive\Documentos\GitHub\Equipo_03\FdD_Equipo_0X-main\Recursos\Imágenes\integrante1.png" width="90"/> | **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Glicerio Urbano Castillo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Jhair Cueva Tantalean** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Moises Aliaga Cueva** | Encargado/a de documentación | Comunicación científica, redacción técnica |
