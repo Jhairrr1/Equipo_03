@@ -1,9 +1,9 @@
 # EQUIPO 03
 ## Integrantes
-- Yhonaiker Ramos Garay--- Coordinador (Project Manager)  yhonaiker.ramos@upch.pe
-- Glicerio Urbano Castillo--- Investigador(ODS Research)  pedro.cueva@upch.pe
-- Jhair Cueva Tantalean---- Diseñador 3D                   glicerio.urbano@upch.pe
-- Junior Moises Aliaga Cueva---                junior.aliaga@upch.pe 
+- Yhonaiker Ramos Garay--- Coordinador general yhonaiker.ramos@upch.pe
+- Glicerio Urbano Castillo--- Investigador y programador glicerio.urbano@upch.pe
+- Jhair Cueva Tantalean---- Diseñador de prototipado electronico   pedro.cueva@upch.pe
+- Junior Moises Aliaga Cueva--- Supervisor de github y manufactura digital junior.aliaga@upch.pe 
 ### Presentación 
 Este proyecto fue desarrollado en el marco de la materia Fundamentos de Diseño, tomando como eje un Objetivo de Desarrollo Sostenible (ODS).
 El propósito es combinar investigación, creatividad y diseño para proponer una solución visual, conceptual y comunicativa que genere conciencia y acción en torno a nuestro ODS seleccionado
