@@ -1,20 +1,39 @@
-# EQUIPO 03
-## Integrantes
-- Yhonaiker Ramos Garay--- Coordinador general yhonaiker.ramos@upch.pe
-- Glicerio Urbano Castillo--- Investigador y programador glicerio.urbano@upch.pe
-- Jhair Cueva Tantalean---- Diseñador de prototipado electronico   pedro.cueva@upch.pe
-- Junior Moises Aliaga Cueva--- Supervisor de github y manufactura digital junior.aliaga@upch.pe 
-### Presentación 
-Este proyecto fue desarrollado en el marco de la materia Fundamentos de Diseño, tomando como eje un Objetivo de Desarrollo Sostenible (ODS).
-El propósito es combinar investigación, creatividad y diseño para proponer una solución visual, conceptual y comunicativa que genere conciencia y acción en torno a nuestro ODS seleccionado
-## ODS ELEGIDA
-- ODS 12 produccion y consumo responsable 
-### Idea elegida 
-- Medidor Inteligente de Consumo Eléctrico es un sistema basado en IoT que monitorea de forma independiente el consumo eléctrico en cada habitación de una casa.
-Cada cuarto cuenta con un sensor de corriente que mide el consumo.
-Los datos se envían a una plataforma digital app o sitio web
-Si una habitación supera un umbral de consumo excesivo, el sistema activa:
-- Alarma sonora o visual.
-- Notificación en el celular.
-#### Con esto se busca reducir el consumo excesivo de energia electrica en una casa aparter de darnos cuenta en que habitacion es donde esta consumiendo mas energia.
-![alt text](energia.jpg)
+# Equipo 03 - Fundamentos de Diseño 2025-2  
+### Carrera de Ingeniería Ambiental / Informática / Industrial  
+**Universidad Peruana Cayetano Heredia**
+
+---
+
+## 🌍 Descripción del Equipo  
+Somos el **Equipo 03** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+
+Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
+- ODS 12: Producción y consumo responsable
+- ODS 7: Energia asequible y no contaminable
+
+
+---
+
+## 📸 Fotografía del Equipo  
+<p align="center">
+  <img src="/Recursos/Imágenes/equipo.png" alt="Foto grupal del equipo" width="500"/><br>
+  <em>Figura 1. Fotografía del equipo 0X</em>
+</p>
+
+---
+
+## 👥 Integrantes del Equipo  
+
+| Foto | Nombre | Rol | Intereses |
+|------|--------|-----|-----------|
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Glicerio Urbano Castillo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Jhair Cueva Tantalean** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Moises Aliaga Cueva** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+
+
+---
+
+## 📌 Resumen Final  
+Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
