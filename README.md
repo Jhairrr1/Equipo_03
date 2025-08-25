@@ -48,6 +48,7 @@ Creemos que el diseño no solo debe enfocarse en la estética, sino también en 
 
 ## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
 ![alt text](<ods 12.png>)
+
 El ODS 12 busca garantizar modalidades de consumo y producción sostenibles. Consideramos que este objetivo es clave porque nos enfrenta a uno de los problemas más urgentes de la actualidad: el uso ineficiente de recursos y el exceso de desechos.
 
 ## Meta específica: 12.2
