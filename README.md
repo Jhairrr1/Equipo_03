@@ -36,4 +36,26 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ---
 
 ## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.  
+
+🌍 Proyecto ODS 12 - Fundamentos de Diseño
+
+## ¿Quiénes somos?
+Somos un grupo de estudiantes del curso Fundamentos de Diseño, comprometidos en aplicar la creatividad y el pensamiento crítico para desarrollar soluciones innovadoras que aporten al desarrollo sostenible.
+
+## Nuestra motivación
+
+Creemos que el diseño no solo debe enfocarse en la estética, sino también en la responsabilidad social y ambiental. Por ello, queremos enfocar nuestros esfuerzos en promover un cambio positivo que impacte tanto a las personas como al planeta.
+
+## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
+![alt text](<ods 12.png>)
+El ODS 12 busca garantizar modalidades de consumo y producción sostenibles. Consideramos que este objetivo es clave porque nos enfrenta a uno de los problemas más urgentes de la actualidad: el uso ineficiente de recursos y el exceso de desechos.
+
+## Meta específica: 12.2
+
+Para 2030, lograr la gestión sostenible y el uso eficiente de los recursos naturales.
+
+Esta meta nos motiva a pensar en diseños y prototipos que promuevan la optimización de recursos, la reducción del consumo excesivo y la creación de hábitos responsables en la sociedad.
+
+## Nuestro propósito en el curso
+
+Durante este ciclo, desarrollaremos un proyecto que responda a esta problemática con una propuesta de diseño viable, creativa y alineada con la meta 12.2. Queremos demostrar que el diseño sostenible puede ser una herramienta poderosa para transformar nuestra forma de consumir y producir.
