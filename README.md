@@ -17,4 +17,4 @@ Si una habitación supera un umbral de consumo excesivo, el sistema activa:
 - Alarma sonora o visual.
 - Notificación en el celular.
 #### Con esto se busca reducir el consumo excesivo de energia electrica en una casa aparter de darnos cuenta en que habitacion es donde esta consumiendo mas energia.
-![Esquema del sistema]![alt text](energia.jpg)
+![alt text](energia.jpg)
