@@ -47,7 +47,7 @@ Somos un grupo de estudiantes del curso Fundamentos de Diseño, comprometidos en
 Creemos que el diseño no solo debe enfocarse en la estética, sino también en la responsabilidad social y ambiental. Por ello, queremos enfocar nuestros esfuerzos en promover un cambio positivo que impacte tanto a las personas como al planeta.
 
 ## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
-<img src="/Recursos/Imágenes/ods12.png" width="140"/>
+<img src="/Recursos/Imágenes/ods12.png" width="240"/>
 
 El ODS 12 busca garantizar modalidades de consumo y producción sostenibles. Consideramos que este objetivo es clave porque nos enfrenta a uno de los problemas más urgentes de la actualidad: el uso ineficiente de recursos y el exceso de desechos.
 
