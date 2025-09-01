@@ -48,11 +48,11 @@ Creemos que el diseño no solo debe enfocarse en la estética, sino también en 
 
 ## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
 <p align="center">
-  <img src="/Recursos/Imágenes/ods12.png" alt="" width="500"/><br>
+  <img src="/Recursos/Imágenes/ods12.png" alt="" width="540"/><br>
   <em></em>
-</p>
+</p>/>
 
-<img src="/Recursos/Imágenes/ods12.png" width="640"/>
+
 
 # Proyecto: Aplicación para Reducir el Desperdicio de Alimentos  
 
