@@ -47,11 +47,8 @@ Somos un grupo de estudiantes del curso Fundamentos de Diseño, comprometidos en
 Creemos que el diseño no solo debe enfocarse en la estética, sino también en la responsabilidad social y ambiental. Por ello, queremos enfocar nuestros esfuerzos en promover un cambio positivo que impacte tanto a las personas como al planeta.
 
 ## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
- <div style="display: flex; justify-content: center;">
-  <img src="c:\Users\pedro\OneDrive\Documentos\GitHub\Equipo_03\Recursos\Imágenes\ods12.png" alt="ODS 12" style="width: 630px; height: auto; max-width: 100%;">
- </div>
+<img src="/Recursos/Imágenes/ods12.png" width="640"/>
 
-# ODS 12 - Producción y Consumo Responsables
 # Proyecto: Aplicación para Reducir el Desperdicio de Alimentos  
 
 Este repositorio documenta el desarrollo de una **aplicación móvil** diseñada para reducir el desperdicio de alimentos en el comercio minorista.  
@@ -142,6 +139,3 @@ La aplicación representa una **solución práctica e innovadora** que:
 ---
 
 📌 **Conclusión**: Este proyecto combina **innovación tecnológica, sostenibilidad y responsabilidad social**, ofreciendo una herramienta estratégica para reducir el desperdicio de alimentos y contribuir directamente al cumplimiento del **ODS 12: Producción y Consumo Responsables**.  
-
-
-[def]: ds12.pn
