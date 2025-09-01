@@ -48,7 +48,7 @@ Creemos que el diseño no solo debe enfocarse en la estética, sino también en 
 
 ## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
 <p align="center">
-  <img src="![ODS12](ods12.png)" alt="ODS 12" width="300">
+  <img src="![alt text](ods12-1.png)" alt="ODS 12" width="300">
 </p>
 
 # ODS 12 - Producción y Consumo Responsables
