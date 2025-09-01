@@ -35,7 +35,7 @@
 ---
 
 ## 📸 Fotografía del Equipo
-![Equipo 03](./Recursos/equipo.jpg)
+![Equipo 03](C:\Users\pedro\OneDrive\Documentos\GitHub\Equipo_03\Recursos\Imágenes)
 
 ---
 
