@@ -3,6 +3,20 @@
 **Universidad Peruana Cayetano Heredia**
 
 ---
+## 📑 Tabla de Contenidos
+- [👥 Descripción del Equipo](#-descripción-del-equipo)
+- [📸 Fotografía del Equipo](#-fotografía-del-equipo)
+- [🧑‍🤝‍🧑 Integrantes](#-integrantes-del-equipo)
+- [📘 Resumen Final](#-resumen-final)
+- [💡 Proyecto](#proyecto-aplicación-para-reducir-el-desperdicio-de-alimentos)
+- [🎯 Objetivos](#1-objetivo-general)
+- [🌱 Impacto Esperado](#3-impacto-esperado)
+- [🚀 Misión](#4-misión)
+- [🔮 Visión](#5-visión)
+- [📌 Justificación](#6-justificación)
+- [♻️ Alineación con ODS 12](#7-alineación-con-el-ods-12)
+
+
 
 ## 🌍 Descripción del Equipo  
 Somos el **Equipo 03** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
@@ -18,7 +32,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ## 📸 Fotografía del Equipo  
 <p align="center">
   <img src="/Recursos/Imágenes/imagen grupal.png" alt="Foto grupal del equipo" width="500"/><br>
-  <em>Figura 1. Fotografía del equipo 03</em>
+  <em>Equipo 03</em>
 </p>
 
 ---
@@ -28,9 +42,9 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante3.png" width="90"/> | **Glicerio Urbano Castillo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante4.png" width="90"/> | **Jhair Cueva Tantalean** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Moises Aliaga Cueva** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/integrante3.png" width="90"/> | **Glicerio Leonel Urbano Castillo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/integrante4.png" width="90"/> | **Pedro Jhair Cueva Tantalean** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **JUnior Moises Aliaga Cueva** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 
 
 ---
@@ -48,7 +62,7 @@ Creemos que el diseño no solo debe enfocarse en la estética, sino también en 
 
 ## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
 <p align="center">
-  <img src="/Recursos/Imágenes/ods12.png" alt="" width="540"/><br>
+  <img src="/Recursos/Imágenes/ods12.png" alt="" width="480"/><br>
   <em></em>
 </p>
 
