@@ -48,9 +48,10 @@ Creemos que el diseño no solo debe enfocarse en la estética, sino también en 
 
 ## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
 <p align="center">
-  <img src="ruta/ods12.png" alt="ODS 12" width="300">
+  <img src="![ODS12](ods12.png)" alt="ODS 12" width="300">
 </p>
 
+# ODS 12 - Producción y Consumo Responsables
 # Proyecto: Aplicación para Reducir el Desperdicio de Alimentos  
 
 Este repositorio documenta el desarrollo de una **aplicación móvil** diseñada para reducir el desperdicio de alimentos en el comercio minorista.  
@@ -141,3 +142,6 @@ La aplicación representa una **solución práctica e innovadora** que:
 ---
 
 📌 **Conclusión**: Este proyecto combina **innovación tecnológica, sostenibilidad y responsabilidad social**, ofreciendo una herramienta estratégica para reducir el desperdicio de alimentos y contribuir directamente al cumplimiento del **ODS 12: Producción y Consumo Responsables**.  
+
+
+[def]: ds12.pn
