@@ -47,8 +47,7 @@ Somos un grupo de estudiantes del curso Fundamentos de Diseño, comprometidos en
 Creemos que el diseño no solo debe enfocarse en la estética, sino también en la responsabilidad social y ambiental. Por ello, queremos enfocar nuestros esfuerzos en promover un cambio positivo que impacte tanto a las personas como al planeta.
 
 ## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
-
-                         <div style="display: flex; justify-content: center;">
+ <div style="display: flex; justify-content: center;">
                            <img src="ods12-1.png" alt="ODS 12" style="width: 300px; height: auto; max-width: 100%;">
                          </div>
 
