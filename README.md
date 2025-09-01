@@ -18,7 +18,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 ## 📸 Fotografía del Equipo  
 <p align="center">
   <img src="/Recursos/Imágenes/imagen grupal.png" alt="Foto grupal del equipo" width="500"/><br>
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <em>Figura 1. Fotografía del equipo 03</em>
 </p>
 
 ---
@@ -47,6 +47,11 @@ Somos un grupo de estudiantes del curso Fundamentos de Diseño, comprometidos en
 Creemos que el diseño no solo debe enfocarse en la estética, sino también en la responsabilidad social y ambiental. Por ello, queremos enfocar nuestros esfuerzos en promover un cambio positivo que impacte tanto a las personas como al planeta.
 
 ## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
+<p align="center">
+  <img src="/Recursos/Imágenes/ods12.png" alt="" width="500"/><br>
+  <em></em>
+</p>
+
 <img src="/Recursos/Imágenes/ods12.png" width="640"/>
 
 # Proyecto: Aplicación para Reducir el Desperdicio de Alimentos  
