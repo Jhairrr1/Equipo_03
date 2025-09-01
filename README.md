@@ -50,7 +50,7 @@ Creemos que el diseño no solo debe enfocarse en la estética, sino también en 
 <p align="center">
   <img src="/Recursos/Imágenes/ods12.png" alt="" width="540"/><br>
   <em></em>
-</p>/>
+</p>
 
 
 
