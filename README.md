@@ -151,9 +151,14 @@ b) Ley Nº 30988 - Ley que regula la reducción y el aprovechamiento de pérdida
 
 En conclusión la aplicación no promueve la venta de productos vencidos, sino que actúa como herramienta para que comercios y consumidores gestionen responsablemente productos próximos a vencer, dentro del marco legal vigente. Así, se contribuye a la seguridad alimentaria, se evitan sanciones y se alinea con políticas nacionales e internacionales contra el desperdicio.
 
+## 8. Sanciones respectivas al Marco legal
+El órgano resolutivo puede sancionar las infracciones administrativas a que se refiere el artículo 108 con amonestación y multas de hasta cuatrocientos cincuenta (450) Unidades Impositivas Tributarias (UIT), las cuales son calificadas de la siguiente manera:
+a. Infracciones leves, con una amonestación o con una multa de hasta cincuenta (50) UIT. 
+b. Infracciones graves, con una multa de hasta ciento cincuenta (150) UIT. 
+c. Infracciones muy graves, con una multa de hasta cuatrocientos cincuenta (450) UIT.
+En el caso de las microempresas, la multa no puede superar el diez por ciento (10%) de las ventas o ingresos brutos percibidos por el infractor, relativos a todas sus actividades económicas, correspondientes al ejercicio inmediato anterior al de la expedición de la resolución de primera instancia, siempre que se haya acreditado dichos ingresos, no se encuentre en una situación de reincidencia y el caso no verse sobre la vida, salud o integridad de los consumidores. Para el caso de las pequeñas empresas, la multa no puede superar el veinte por ciento (20%) de las ventas o ingresos brutos percibidos por el infractor, conforme a los requisitos señalados anteriormente. La cuantía de las multas por las infracciones previstas en el Decreto Legislativo Nº 807, Ley sobre Facultades, Normas y Organización del Indecopi, se rige por lo establecido en dicha norma, salvo disposición distinta del presente Código.
 
-
-## 8. Alineación con el ODS 12  
+## 9. Alineación con el ODS 12  
 
 | Meta ODS 12.3 | Aporte del Proyecto |
 |---------------|---------------------|
@@ -162,7 +167,7 @@ En conclusión la aplicación no promueve la venta de productos vencidos, sino q
 
 ---
 
-## 9. Estrategia de Implementación  
+## 10. Estrategia de Implementación  
 
 | Etapa | Acción Principal | Resultados Esperados |
 |-------|-----------------|-----------------------|
@@ -172,7 +177,7 @@ En conclusión la aplicación no promueve la venta de productos vencidos, sino q
 | Evaluación | Medición de impactos ambientales, económicos y sociales. | Reportes que demuestren contribución al ODS 12. |
 
 ---
-## 10. REFERENCIAS BIBLIOGRÁFICAS
+## 11. REFERENCIAS BIBLIOGRÁFICAS
 Ley Nº 29571, Código de Protección y Defensa del Consumidor. Perú, 2010.
 Disponible en: https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H682697
 
