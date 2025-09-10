@@ -80,7 +80,7 @@ El proyecto está alineado con el **ODS 12: Producción y Consumo Responsables**
 
 ## 1. Objetivo General  
 
-Diseñar e implementar una aplicación móvil que permita a tiendas, bodegas y supermercados **registrar productos próximos a vencer y ofrecerlos con descuentos significativos**, reduciendo el desperdicio de alimentos y fomentando el consumo responsable.  
+Diseñar e implementar una aplicación móvil dirigida a tiendas y bodegas ubicados en zonas periféricas, permitiéndoles registrar productos envasados próximos a vencer y ofrecerlos con descuentos significativos, con el fin de reducir el desperdicio de alimentos, minimizar pérdidas económicas y fomentar el consumo responsable en áreas con menor movimiento comercial.
 
 ---
 
@@ -88,11 +88,10 @@ Diseñar e implementar una aplicación móvil que permita a tiendas, bodegas y s
 
 | Nº | Objetivo |
 |----|----------|
-| 1  | Desarrollar una plataforma digital intuitiva que conecte comercios locales con consumidores. |
-| 2  | Disminuir el volumen de alimentos desperdiciados en puntos de venta minoristas. |
+| 1  | Diseñar una interfaz simple y accesible para que tanto comerciantes como clientes de todas las edades puedan usar la plataforma sin dificultad. |
+| 2  |Reducir el desperdicio de productos envasados próximos a vencer en tiendas periféricas, mediante descuentos progresivos y alertas de vencimiento. |
 | 3  | Generar ahorro económico para los usuarios mediante compras más accesibles. |
-| 4  | Sensibilizar a la población respecto a la importancia de la economía circular y el consumo responsable. |
-| 5  | Contribuir al cumplimiento de la ODS 12 mediante la reducción de pérdidas de alimentos en la cadena de suministro. |
+| 4 | Contribuir al cumplimiento de la ODS 12 mediante la reducción de pérdidas de alimentos en la cadena de suministro. |
 
 ---
 
@@ -136,8 +135,25 @@ La aplicación representa una **solución práctica e innovadora** que:
 - Promueve una **cultura de consumo responsable** y de economía circular.  
 
 ---
+##7. Marco Legal
+Este proyecto se sustenta en el marco normativo peruano que regula la seguridad alimentaria, los derechos del consumidor y la gestión de productos en estado de deterioro o vencimiento. Las normas que lo respaldan son:
 
-## 7. Alineación con el ODS 12  
+a) Ley Nº 29571 - Código de Protección y Defensa del Consumidor
+
+- Artículo 5: Derecho a la información veraz y oportuna. Los consumidores deben ser informados claramente sobre las fechas de vencimiento de los productos.
+
+- Artículo 23: Prohíbe la comercialización de productos que representen riesgo para la salud o la seguridad.
+
+b) Ley Nº 30988 - Ley que regula la reducción y el aprovechamiento de pérdidas y desperdicios de alimentos
+
+- Promueve la implementación de programas y proyectos en torno a la reducción y prevención de pérdidas y desperdicio de alimentos a nivel nacional, regional y local
+
+
+En conclusión la aplicación no promueve la venta de productos vencidos, sino que actúa como herramienta para que comercios y consumidores gestionen responsablemente productos próximos a vencer, dentro del marco legal vigente. Así, se contribuye a la seguridad alimentaria, se evitan sanciones y se alinea con políticas nacionales e internacionales contra el desperdicio.
+
+
+
+## 8. Alineación con el ODS 12  
 
 | Meta ODS 12.3 | Aporte del Proyecto |
 |---------------|---------------------|
@@ -146,7 +162,7 @@ La aplicación representa una **solución práctica e innovadora** que:
 
 ---
 
-## 8. Estrategia de Implementación  
+## 9. Estrategia de Implementación  
 
 | Etapa | Acción Principal | Resultados Esperados |
 |-------|-----------------|-----------------------|
@@ -156,5 +172,9 @@ La aplicación representa una **solución práctica e innovadora** que:
 | Evaluación | Medición de impactos ambientales, económicos y sociales. | Reportes que demuestren contribución al ODS 12. |
 
 ---
+## 9. REFERENCIAS BIBLIOGRÁFICAS
+Ley Nº 29571, Código de Protección y Defensa del Consumidor. Perú, 2010.
+Disponible en: https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H682697
 
-📌 **Conclusión**: Este proyecto combina **innovación tecnológica, sostenibilidad y responsabilidad social**, ofreciendo una herramienta estratégica para reducir el desperdicio de alimentos y contribuir directamente al cumplimiento del **ODS 12: Producción y Consumo Responsables**.  
+Ley Nº 30988, Ley que regula la reducción y el aprovechamiento de pérdidas y desperdicios de alimentos. Perú, 2019.
+Disponible en: https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H1240200
