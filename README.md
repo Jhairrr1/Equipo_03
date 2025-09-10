@@ -135,7 +135,7 @@ La aplicación representa una **solución práctica e innovadora** que:
 - Promueve una **cultura de consumo responsable** y de economía circular.  
 
 ---
-##7. Marco Legal
+## 7. Marco Legal
 Este proyecto se sustenta en el marco normativo peruano que regula la seguridad alimentaria, los derechos del consumidor y la gestión de productos en estado de deterioro o vencimiento. Las normas que lo respaldan son:
 
 a) Ley Nº 29571 - Código de Protección y Defensa del Consumidor
@@ -172,7 +172,7 @@ En conclusión la aplicación no promueve la venta de productos vencidos, sino q
 | Evaluación | Medición de impactos ambientales, económicos y sociales. | Reportes que demuestren contribución al ODS 12. |
 
 ---
-## 9. REFERENCIAS BIBLIOGRÁFICAS
+## 10. REFERENCIAS BIBLIOGRÁFICAS
 Ley Nº 29571, Código de Protección y Defensa del Consumidor. Perú, 2010.
 Disponible en: https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H682697
 
