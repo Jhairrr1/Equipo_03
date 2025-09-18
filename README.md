@@ -1,189 +1,348 @@
-# Equipo 03 - Fundamentos de Diseño 2025-2  
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+# Equipo 03 - Fundamentos de Diseño 2025-2
+**Carrera de Ingeniería Ambiental / Informática / Industrial**  
 **Universidad Peruana Cayetano Heredia**
 
----
 ## 📑 Tabla de Contenidos
-- [👥 Descripción del Equipo](#-descripción-del-equipo)
-- [📸 Fotografía del Equipo](#-fotografía-del-equipo)
-- [🧑‍🤝‍🧑 Integrantes](#-integrantes-del-equipo)
-- [📘 Resumen Final](#-resumen-final)
-- [💡 Proyecto](#proyecto-aplicación-para-reducir-el-desperdicio-de-alimentos)
-- [🎯 Objetivos](#1-objetivo-general)
-- [🌱 Impacto Esperado](#3-impacto-esperado)
-- [🚀 Misión](#4-misión)
-- [🔮 Visión](#5-visión)
-- [📌 Justificación](#6-justificación)
-- [♻️ Alineación con ODS 12](#7-alineación-con-el-ods-12)
+- 👥 Descripción del Equipo
+- 📸 Fotografía del Equipo
+- 🧑‍🤝‍🧑 Integrantes
+- 📘 Resumen Final
+- 💡 Proyecto: KOLCAPP
+- 🎯 Objetivos
+- 🔍 ¿Cómo Funciona?
+- 📱 Características de la Aplicación
+- 🌱 Impacto Esperado
+- 🚀 Misión y Visión
+- 📌 Justificación
+- ♻️ Alineación con ODS 12
+- 🧩 Componentes Clave del Sistema
+- 📊 Especificaciones Técnicas
+- 🔬 Metodología de Implementación
+- 📈 Métricas de Impacto
 
+---
 
+## 🌍 Descripción del Equipo
+Somos el Equipo 03 del curso Fundamentos de Diseño 2025-2, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.
 
-## 🌍 Descripción del Equipo  
-Somos el **Equipo 03** del curso **Fundamentos de Diseño 2025-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.
 
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 12: Producción y consumo responsable
-- ODS 7: Energia asequible y no contaminable
+**Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):**
+- **ODS 12**: Producción y consumo responsable
 
 
 ---
 
-## 📸 Fotografía del Equipo  
-<p align="center">
-  <img src="/Recursos/Imágenes/imagen grupal.png" alt="Foto grupal del equipo" width="500"/><br>
-  <em>Equipo 03</em>
-</p>
+## 📸 Fotografía del Equipo
+*Foto grupal del equipo*  
+**Equipo 03**
 
 ---
 
-## 👥 Integrantes del Equipo  
+## 👥 Integrantes del Equipo
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante3.png" width="90"/> | **Glicerio Leonel Urbano Castillo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante4.png" width="90"/> | **Pedro Jhair Cueva Tantalean** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **JUnior Moises Aliaga Cueva** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-
+| | **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
+| | **Glicerio Leonel Urbano Castillo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| | **Pedro Jhair Cueva Tantalean** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| | **Junior Moises Aliaga Cueva** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 
 ---
 
-## 📌 Resumen Final  
+## 📌 Resumen Final
 
-🌍 Proyecto ODS 12 - Fundamentos de Diseño
+### 🌍 Proyecto ODS 12 - Fundamentos de Diseño
 
-## ¿Quiénes somos?
+**¿Quiénes somos?**  
 Somos un grupo de estudiantes del curso Fundamentos de Diseño, comprometidos en aplicar la creatividad y el pensamiento crítico para desarrollar soluciones innovadoras que aporten al desarrollo sostenible.
 
-## Nuestra motivación
+**Nuestra motivación**  
+"La preocupación por el  desperdicio de productos vencidos o próximos a caducar en bodegas y tiendas de mi localidad nos impulsó a crear Kolcapp. Este proyecto nace para combatir y reducir significativamente las pérdidas en el comercio minorista de nuestro país, buscando un mejor destino para esos recursos."
 
-Creemos que el diseño no solo debe enfocarse en la estética, sino también en la responsabilidad social y ambiental. Por ello, queremos enfocar nuestros esfuerzos en promover un cambio positivo que impacte tanto a las personas como al planeta.
-
-## ODS seleccionado: Objetivo 12 - Producción y Consumo Responsables
-<p align="center">
-  <img src="/Recursos/Imágenes/ods12.png" alt="" width="480"/><br>
-  <em></em>
-</p>
-
-
-
-# Proyecto: Aplicación para Reducir el Desperdicio de Alimentos  
-
-Este repositorio documenta el desarrollo de una **aplicación móvil** diseñada para reducir el desperdicio de alimentos en el comercio minorista.  
-
-La aplicación conecta **tiendas, bodegas y supermercados** que cuentan con productos próximos a vencer con **consumidores interesados en adquirirlos a menor precio**, evitando que se pierdan y promoviendo un consumo responsable.  
-
-El proyecto está alineado con el **ODS 12: Producción y Consumo Responsables**, en particular con la **meta 12.3**, que busca reducir a la mitad el desperdicio de alimentos mundial hacia el año 2030.  
+**ODS seleccionado**: Objetivo 12 - Producción y Consumo Responsables
 
 ---
 
-## 1. Objetivo General  
+## 💡 PROYECTO: Kolcapp
 
+### Descripción GeneraL
+Kolcapp es una aplicación móvil innovadora que conecta tiendas, bodegas y supermercados con productos próximos a vencer con consumidores interesados en adquirirlos a precios reducidos. La plataforma integra tecnología de geolocalización, notificaciones inteligentes y un sistema de descuentos progresivos para maximizar el aprovechamiento de alimentos y minimizar el desperdicio.
+
+---
+
+## 🎯 Objetivos
+
+### 1. Objetivo General
 Diseñar e implementar una aplicación móvil dirigida a tiendas y bodegas ubicados en zonas periféricas, permitiéndoles registrar productos envasados próximos a vencer y ofrecerlos con descuentos significativos, con el fin de reducir el desperdicio de alimentos, minimizar pérdidas económicas y fomentar el consumo responsable en áreas con menor movimiento comercial.
 
----
-
-## 2. Objetivos Específicos  
+### 2. Objetivos Específicos
 
 | Nº | Objetivo |
 |----|----------|
-| 1  | Diseñar una interfaz simple y accesible para que tanto comerciantes como clientes de todas las edades puedan usar la plataforma sin dificultad. |
-| 2  |Reducir el desperdicio de productos envasados próximos a vencer en tiendas periféricas, mediante descuentos progresivos y alertas de vencimiento. |
-| 3  | Generar ahorro económico para los usuarios mediante compras más accesibles. |
+| 1 | Diseñar una interfaz simple y accesible para que tanto comerciantes como clientes de todas las edades puedan usar la plataforma sin dificultad. |
+| 2 | Reducir el desperdicio de productos envasados próximos a vencer en tiendas periféricas, mediante descuentos progresivos y alertas de vencimiento. |
+| 3 | Generar ahorro económico para los usuarios mediante compras más accesibles. |
 | 4 | Contribuir al cumplimiento de la ODS 12 mediante la reducción de pérdidas de alimentos en la cadena de suministro. |
 
 ---
 
-## 3. Impacto Esperado  
+## 🔍 ¿Cómo Funciona?
+
+### Sistema Integrado de Gestión:
+
+**Para Comerciantes:**
+1. **Registro de Productos**: Escaneo de códigos de barras o registro manual con fecha de vencimiento
+2. **Sistema de Descuentos Automáticos**: Algoritmo que aplica descuentos progresivos según proximidad al vencimiento:
+   - 7-5 días: 15% descuento
+   - 4-3 días: 30% descuento
+   - 2-1 días: 50% descuento
+   - Día de vencimiento: 70% descuento
+3. **Gestión de Inventario**: Panel de control para monitorear productos registrados y ventas
+
+**Para Consumidores:**
+1. **Búsqueda Geolocalizada**: Encuentra ofertas cercanas mediante GPS
+2. **Filtros Inteligentes**: Por categoría de producto, rango de precios, distancia
+3. **Notificaciones Push**: Alertas personalizadas sobre ofertas que coinciden con preferencias
+4. **Sistema de Reservas**: Posibilidad de apartar productos por tiempo limitado
+
+### Tecnologías y Funcionalidades Específicas:
+
+| Componente | Tecnología | Función |
+|------------|------------|---------|
+| **Reconocimiento de Productos** | API de códigos de barras | Identificación automática de productos y fechas de vencimiento |
+| **Geolocalización** | Google Maps API | Localización de tiendas cercanas y cálculo de rutas |
+| **Notificaciones** | Firebase Cloud Messaging | Alertas push personalizadas en tiempo real |
+| **Pagos** | Integración con Yape/Plin | Pagos seguros y rápidos |
+| **Base de Datos** | MySQL, Firebase | función principal es almacenar, organizar, gestionar y recuperar datos de manera eficiente y estructurada
+| **Análisis de Datos** | Machine Learning | Predicción de patrones de compra y optimización de descuentos |
+
+---
+
+## 📱 Kolcapp - Características Principales
+
+### **Interfaz para Comerciantes - "Kolcapp"**
+
+**Dashboard Principal:**
+- ✅ Inventario de productos próximos a vencer
+- ✅ Alertas automáticas cuando productos se acercan al vencimiento
+- ✅ Gestión de descuentos personalizados
+
+**Funciones Clave:**
+- 📷 Escaneo rápido de códigos de barras
+- 📊 Reportes mensuales de reducción de pérdidas
+- 🔔 Notificaciones para reposición de stock
+- 💰 Calculadora de rentabilidad con descuentos
+
+### **Interfaz para Consumidores - "KOLCAPP"**
+
+**Pantalla Principal:**
+- 🗺️ Mapa interactivo con ofertas cercanas
+- 🏪 Lista de tiendas participantes
+- 🎯 Ofertas destacadas del día
+- 💡 Sugerencias basadas en historial de compras
+
+**Funciones Clave:**
+- 🔍 Búsqueda por categorías ( Productos envasados etc.)
+- ⭐ Sistema de valoraciones de tiendas
+- 📱 Código QR para retiro rápido
+- 📈 Tracker personal de ahorro mensual
+- 🏆 Sistema de puntos por compras sostenibles
+
+### **Notificaciones Inteligentes:**
+- **"🔥 OFERTA FLASH: Yogures con 60% descuento en Bodega San Juan - ¡Solo por hoy!"**
+- **"🥖 PANADERÍA: Pan del día anterior con 40% descuento a 2 cuadras de ti"**
+- **"📊 RESUMEN SEMANAL: Ahorraste S/ 25.50 y evitaste desperdiciar 3kg de alimentos"**
+- **"🎯 RECOMENDACIÓN: Productos que sueles comprar disponibles con descuento"**
+
+---
+
+## 🌱 Impacto Esperado
 
 | Dimensión | Impacto |
 |-----------|---------|
-| Ambiental | Reducción del desperdicio de alimentos y del uso innecesario de recursos naturales. |
-| Económica | Ahorro económico para los consumidores y optimización de inventarios para los comercios. |
-| Social    | Apoyo a pequeños negocios y mayor acceso a alimentos para la población. |
-| Sostenible| Promoción de la economía circular y fortalecimiento de hábitos de consumo responsable. |
+| **Ambiental** | Reducción del desperdicio de alimentos y del uso innecesario de recursos naturales. |
+| **Económica** | Ahorro económico para los consumidores y optimización de inventarios para los comercios. |
+| **Social** | Apoyo a pequeños negocios y mayor acceso a alimentos para la población. |
+| **Sostenible** | Promoción de la economía circular y fortalecimiento de hábitos de consumo responsable. |
 
 ---
 
-## 4. Misión  
+## 🚀 Misión
+Implementar prácticas sostenibles en el consumo y la distribución de alimentos, reduciendo el desperdicio y fomentando la economía circular. Mediante la innovación tecnológica y la colaboración multidisciplinaria, se busca construir un presente en el que el acceso a alimentos asequibles y la reducción de pérdidas sean pilares de un sistema alimentario más justo y sostenible.
 
-Implementar **prácticas sostenibles** en el consumo y la distribución de alimentos, reduciendo el desperdicio y fomentando la economía circular.  
-Mediante la **innovación tecnológica** y la **colaboración multidisciplinaria**, se busca construir un presente en el que el **acceso a alimentos asequibles y la reducción de pérdidas** sean pilares de un sistema alimentario más justo y sostenible.  
-
----
-
-## 5. Visión  
-
-Visualizamos un futuro en el que cada alimento sea aprovechado y no se convierta en desperdicio, transformándolo en **oportunidades de ahorro, eficiencia y sostenibilidad**.  
-Aspiramos a un mundo donde la **tecnología y la creatividad** fortalezcan cadenas de suministro responsables, impulsando un cambio global hacia el **consumo consciente** y la **producción sostenible**, en armonía con la naturaleza y las necesidades de la humanidad.  
+## 🔮 Visión
+Visualizamos un futuro en el que cada alimento sea aprovechado y no se convierta en desperdicio, transformándolo en oportunidades de ahorro, eficiencia y sostenibilidad. Aspiramos a un mundo donde la tecnología y la creatividad fortalezcan cadenas de suministro responsables, impulsando un cambio global hacia el consumo consciente y la producción sostenible, en armonía con la naturaleza y las necesidades de la humanidad.
 
 ---
 
-## 6. Justificación  
+## 📌 Justificación
+El desperdicio de alimentos es un problema global con repercusiones ambientales, económicas y sociales:
 
-El desperdicio de alimentos es un problema global con repercusiones **ambientales, económicas y sociales**:  
+- Cada año se pierden millones de toneladas de alimentos, mientras numerosas familias enfrentan dificultades para acceder a ellos.
+- Estas pérdidas implican un uso excesivo de recursos naturales (agua, suelo, energía).
+- Se generan emisiones contaminantes que agravan el cambio climático.
 
-- Cada año se pierden **millones de toneladas de alimentos**, mientras numerosas familias enfrentan dificultades para acceder a ellos.  
-- Estas pérdidas implican un **uso excesivo de recursos naturales** (agua, suelo, energía).  
-- Se generan **emisiones contaminantes** que agravan el cambio climático.  
-
-La aplicación representa una **solución práctica e innovadora** que:  
-- Facilita la conexión entre oferta y demanda de alimentos próximos a vencer.  
-- Reduce el desperdicio y las emisiones asociadas.  
-- Genera ahorro económico para los consumidores.  
-- Promueve una **cultura de consumo responsable** y de economía circular.  
-
----
-## 7. Marco Legal
-Este proyecto se sustenta en el marco normativo peruano que regula la seguridad alimentaria, los derechos del consumidor y la gestión de productos en estado de deterioro o vencimiento. Las normas que lo respaldan son:
-
-a) Ley Nº 29571 - Código de Protección y Defensa del Consumidor
-
-- Artículo 5: Derecho a la información veraz y oportuna. Los consumidores deben ser informados claramente sobre las fechas de vencimiento de los productos.
-
-- Artículo 23: Prohíbe la comercialización de productos que representen riesgo para la salud o la seguridad.
-
-b) Ley Nº 30988 - Ley que regula la reducción y el aprovechamiento de pérdidas y desperdicios de alimentos
-
-- Promueve la implementación de programas y proyectos en torno a la reducción y prevención de pérdidas y desperdicio de alimentos a nivel nacional, regional y local
-
-
-En conclusión la aplicación no promueve la venta de productos vencidos, sino que actúa como herramienta para que comercios y consumidores gestionen responsablemente productos próximos a vencer, dentro del marco legal vigente. Así, se contribuye a la seguridad alimentaria, se evitan sanciones y se alinea con políticas nacionales e internacionales contra el desperdicio.
-
-## 8. Sanciones respectivas al Marco legal
-El órgano resolutivo puede sancionar las infracciones administrativas a que se refiere el artículo 108 con amonestación y multas de hasta cuatrocientos cincuenta (450) Unidades Impositivas Tributarias (UIT), las cuales son calificadas de la siguiente manera:
-
-a. Infracciones leves, con una amonestación o con una multa de hasta cincuenta (50) UIT. 
-
-b. Infracciones graves, con una multa de hasta ciento cincuenta (150) UIT. 
-
-c. Infracciones muy graves, con una multa de hasta cuatrocientos cincuenta (450) UIT.
-
-En el caso de las microempresas, la multa no puede superar el diez por ciento (10%) de las ventas o ingresos brutos percibidos por el infractor, relativos a todas sus actividades económicas, correspondientes al ejercicio inmediato anterior al de la expedición de la resolución de primera instancia, siempre que se haya acreditado dichos ingresos, no se encuentre en una situación de reincidencia y el caso no verse sobre la vida, salud o integridad de los consumidores. Para el caso de las pequeñas empresas, la multa no puede superar el veinte por ciento (20%) de las ventas o ingresos brutos percibidos por el infractor, conforme a los requisitos señalados anteriormente. La cuantía de las multas por las infracciones previstas en el Decreto Legislativo Nº 807, Ley sobre Facultades, Normas y Organización del Indecopi, se rige por lo establecido en dicha norma, salvo disposición distinta del presente Código.
-
-## 9. Alineación con el ODS 12  
-
-| Meta ODS 12.3 | Aporte del Proyecto |
-|---------------|---------------------|
-| Reducir a la mitad el desperdicio mundial de alimentos para 2030. | Conectar productos próximos a vencer con consumidores a través de descuentos, evitando que se conviertan en residuos. |
-| Reducir las pérdidas de alimentos a lo largo de las cadenas de producción y suministro. | Optimización del inventario de tiendas, bodegas y supermercados mediante la digitalización de su oferta. |
+**KOLCAPP representa una solución práctica e innovadora que:**
+- Facilita la conexión entre oferta y demanda de alimentos próximos a vencer.
+- Reduce el desperdicio y las emisiones asociadas.
+- Genera ahorro económico para los consumidores.
+- Promueve una cultura de consumo responsable y de economía circular.
 
 ---
 
-## 10. Estrategia de Implementación  
+## ♻️ Alineación con el ODS 12
 
-| Etapa | Acción Principal | Resultados Esperados |
-|-------|-----------------|-----------------------|
-| Diagnóstico | Análisis del desperdicio en comercios locales. | Identificación de necesidades y oportunidades. |
-| Diseño | Creación de la interfaz y funciones de la aplicación. | Plataforma intuitiva y accesible. |
-| Implementación | Registro de productos y conexión con usuarios. | Reducción del desperdicio y aumento del acceso a alimentos. |
-| Evaluación | Medición de impactos ambientales, económicos y sociales. | Reportes que demuestren contribución al ODS 12. |
+### 📊 IMPACTO EN EL ODS 12: PRODUCCIÓN Y CONSUMO RESPONSABLES
+
+#### 🎯 Meta 12.3: Reducción del Desperdicio de Alimentos
+*"De aquí a 2030, reducir a la mitad el desperdicio de alimentos per cápita nacional"*
+
+| Indicador | Impacto de KOLCAPP |
+|-----------|-------------------------|
+| Reducción de desperdicio | Sistema de descuentos progresivos que incentiva compra antes del vencimiento |
+| Optimización del consumo | Alertas proactivas sobre ofertas cercanas y fechas de vencimiento |
+| Gestión eficiente | Conexión directa entre oferta y demanda local |
+
+#### ♻️ Meta 12.5: Reducción de Generación de Desechos
+*"Reducir considerablemente la generación de desechos mediante actividades de prevención, reducción, reciclado y reutilización"*
+
+| Indicador | Impacto de KOLCAPP |
+|-----------|-------------------------|
+| Prevención | Evita que productos se conviertan en desperdicio |
+| Reducción | Disminuye residuos orgánicos en comercios y hogares |
+| Economía circular | Maximiza el ciclo de vida útil de los alimentos |
+
+#### 📚 Meta 12.8: Información para Estilos de Vida Sostenibles
+*"Asegurar que las personas tengan información y conocimientos sobre desarrollo sostenible"*
+
+| Indicador | Impacto de KOLCAPP |
+|-----------|-------------------------|
+| Educación alimentaria | Tips sobre conservación y aprovechamiento de alimentos |
+| Concienciación | Estadísticas personales de ahorro e impacto ambiental |
+| Toma de decisiones | Información en tiempo real para consumo responsable |
 
 ---
-## 11. REFERENCIAS BIBLIOGRÁFICAS
-Ley Nº 29571, Código de Protección y Defensa del Consumidor. Perú, 2010.
-Disponible en: https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H682697
 
-Ley Nº 30988, Ley que regula la reducción y el aprovechamiento de pérdidas y desperdicios de alimentos. Perú, 2019.
-Disponible en: https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H1240200
+## 🧩 Componentes Clave del Sistema
+
+| Categoría | Componentes | Función |
+|-----------|-------------|---------|
+| **Frontend** | React Native, Flutter | Aplicación móvil multiplataforma |
+| **Backend** | Node.js, Express, Firebase | Servidor y base de datos en tiempo real |
+| **APIs Externas** | Google Maps, Códigos de barras, Yape/Plin | Geolocalización, identificación de productos, pagos |
+| **Inteligencia Artificial** | TensorFlow Lite, Machine Learning | Recomendaciones personalizadas y predicción de demanda |
+| **Notificaciones** | Firebase Cloud Messaging | Sistema de alertas push |
+| **Seguridad** | SSL, JWT, Encriptación | Protección de datos de usuarios y transacciones |
+
+---
+
+## 📊 Especificaciones Técnicas
+
+| Parámetro | Especificación |
+|-----------|----------------|
+| **Plataformas** | Android 12.0+, iOS 12+ |
+| **Conectividad** | 4G/5G, WiFi, GPS |
+| **Almacenamiento** | 50MB espacio libre |
+| **Idiomas** | Español (Perú), Inglés |
+| **Pagos** | Yape, Plin, efectivo |
+| **Geolocalización** | Radio de búsqueda: 5km configurable |
+| **Notificaciones** | Push notifications, alertas personalizables |
+| **Sincronización** | Tiempo real entre comerciantes y usuarios |
+| **Capacidad** | Hasta 1000 productos por comercio |
+
+---
+
+## 🔬 Metodología de Implementación
+
+### Estrategia de Desarrollo
+
+| Etapa | Acción Principal | Duración | Resultados Esperados |
+|-------|------------------|----------|---------------------|
+| **Investigación** | Análisis del desperdicio en comercios locales y entrevistas con comerciantes | 4 semanas | Identificación de necesidades y oportunidades específicas |
+| **Diseño UX/UI** | Creación de wireframes, prototipos y testing de usabilidad | 6 semanas | Interfaces intuitivas y accesibles para ambos usuarios |
+| **Desarrollo MVP** | Programación de funcionalidades básicas | 12 semanas | Aplicación funcional con características core |
+| **Pruebas Piloto** | Testing con 10 comercios en Lima Norte | 8 semanas | Validación del modelo y ajustes basados en feedback |
+| **Lanzamiento** | Despliegue en App Store y Google Play | 2 semanas | Aplicación disponible para descarga pública |
+| **Escalamiento** | Expansión a más distritos y mejoras continuas | Ongoing | Crecimiento sostenido y optimización |
+
+
+
+---
+
+## 📈 Métricas de Impacto ODS 12
+
+
+
+### Indicadores Cualitativos
+
+| Aspecto | Medición | Frecuencia |
+|---------|----------|------------|
+| **Satisfacción de usuarios** | Encuestas NPS (Net Promoter Score) | Trimestral |
+| **Adopción tecnológica** | % de comerciantes que usan todas las funciones | Mensual |
+| **Impacto educativo** | Conocimiento sobre desperdicio alimentario | Semestral |
+| **Cambio de hábitos** | Frecuencia de compras sostenibles | Mensual |
+
+---
+
+## 📋 Marco Legal y Normativo
+
+Este proyecto se sustenta en el marco normativo peruano que regula la seguridad alimentaria, los derechos del consumidor y la gestión de productos:
+
+### Leyes Aplicables:
+
+**a) Ley Nº 29571 - Código de Protección y Defensa del Consumidor**
+- Artículo 5: Derecho a la información veraz y oportuna sobre fechas de vencimiento
+- Artículo 23: Prohibición de comercialización de productos que representen riesgo
+
+**b) Ley Nº 30988 - Ley de reducción y aprovechamiento de pérdidas y desperdicios de alimentos**
+- Promueve programas de reducción de desperdicio a nivel nacional, regional y local
+
+### Sanciones Respectivas:
+
+| Tipo de Infracción | Multa Máxima | Aplicación |
+|-------------------|--------------|------------|
+| **Infracciones leves** | 50 UIT | Amonestación o multa |
+| **Infracciones graves** | 150 UIT | Multa |
+| **Infracciones muy graves** | 450 UIT | Multa |
+
+**Nota**: Para microempresas, la multa no puede superar el 10% de ventas anuales; para pequeñas empresas, 20%.
+
+---
+
+## 🎯 Propuesta de Valor
+
+### Para Comerciantes:
+- **Reducción de pérdidas**: Hasta 40% menos productos desperdiciados
+- **Ingresos adicionales**: Monetización de productos que se perderían
+- **Gestión simplificada**: Automatización de descuentos y alertas
+- **Marketing gratuito**: Visibilidad en la app sin costos de publicidad
+
+### Para Consumidores:
+- **Ahorro económico**: 30-70% descuento en productos de calidad
+- **Conveniencia**: Encuentra ofertas cercanas en tiempo real
+- **Impacto positivo**: Contribuye a reducir desperdicio alimentario
+- **Variedad**: Acceso a productos de múltiples establecimientos
+
+### Para la Sociedad:
+- **Sostenibilidad**: Reducción de residuos orgánicos
+- **Economía circular**: Maximización del valor de los alimentos
+- **Educación**: Concienciación sobre consumo responsable
+- **Innovación**: Modelo replicable en otras ciudades de Latinoamérica
+
+---
+
+## 📚 Referencias Bibliográficas
+
+1. Ley Nº 29571, Código de Protección y Defensa del Consumidor. Perú, 2010. Disponible en: https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H682697
+
+2. Ley Nº 30988, Ley que regula la reducción y el aprovechamiento de pérdidas y desperdicios de alimentos. Perú, 2019. Disponible en: https://spij.minjus.gob.pe/spij-ext-web/#/detallenorma/H1240200
+
+3. FAO. (2019). El estado mundial de la agricultura y la alimentación. Progresos en la lucha contra la pérdida y el desperdicio de alimentos.
+
+4. ONU. (2015). Objetivos de Desarrollo Sostenible. Meta 12.3: Reducir el desperdicio de alimentos.
+
+---
+
+*Documento elaborado por el Equipo 03 - Fundamentos de Diseño 2025-2*  
+*Universidad Peruana Cayetano Heredia*
