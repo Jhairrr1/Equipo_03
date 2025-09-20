@@ -54,6 +54,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 ### 🌍 Proyecto ODS 12 - Fundamentos de Diseño
 
+<img src="ods12.png" width="540"/>
 **¿Quiénes somos?**  
 Somos un grupo de estudiantes del curso Fundamentos de Diseño, comprometidos en aplicar la creatividad y el pensamiento crítico para desarrollar soluciones innovadoras que aporten al desarrollo sostenible.
 
