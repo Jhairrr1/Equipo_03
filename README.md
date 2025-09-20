@@ -38,15 +38,15 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 **Equipo 03**
 
 ---
-
 ## 👥 Integrantes del Equipo
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| ![Yhonaiker Ramos Garay](integrante1.png)| **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
-|![Glicerio Leonel Urbano Castillo](integrante3.png)| **Glicerio Leonel Urbano Castillo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| ![Pedro Jhair Cueva Tantalean](integrante4.png)| **Pedro Jhair Cueva Tantalean** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| ![Junior Moises Aliaga Cueva](integrante2.png)| **Junior Moises Aliaga Cueva** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="integrante1.png" width="120"/> | **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="integrante2.png" width="120"/> | **Junior Moises Aliaga Cueva** | Documentación | Comunicación científica, redacción técnica |
+| <img src="integrante3.png" width="120"/> | **Glicerio Leonel Urbano Castillo** | Investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="integrante4.png" width="120"/> | **Pedro Jhair Cueva Tantalean** | Diseño | Prototipos, creatividad aplicada |
+
 
 ---
 
