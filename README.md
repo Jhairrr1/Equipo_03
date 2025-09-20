@@ -31,10 +31,11 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 - **ODS 12**: Producción y consumo responsable
 
 
----
 
 ## 📸 Fotografía del Equipo
-![Foto grupal del Equipo 03](imagen%20grupal.png)
+
+<img src="Recursos/Imágenes/imagen grupal.png" width="540"/>
+  
 **Equipo 03**
 
 ---
@@ -42,10 +43,10 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="integrante1.png" width="120"/> | **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="integrante2.png" width="120"/> | **Junior Moises Aliaga Cueva** | Documentación | Comunicación científica, redacción técnica |
-| <img src="integrante3.png" width="120"/> | **Glicerio Leonel Urbano Castillo** | Investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="integrante4.png" width="120"/> | **Pedro Jhair Cueva Tantalean** | Diseño | Prototipos, creatividad aplicada |
+| <img src="Recursos/Imágenes/integrante1.png" width="120"/> | **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="Recursos/Imágenes/integrante2.png" width="120"/> | **Junior Moises Aliaga Cueva** | Documentación | Comunicación científica, redacción técnica |
+| <img src="Recursos/Imágenes/integrante3.png" width="120"/> | **Glicerio Leonel Urbano Castillo** | Investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="Recursos/Imágenes/integrante4.png" width="120"/> | **Pedro Jhair Cueva Tantalean** | Diseño | Prototipos, creatividad aplicada |
 
 
 ---
@@ -54,7 +55,8 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 ### 🌍 Proyecto ODS 12 - Fundamentos de Diseño
 
-<img src="ods12.png" width="540"/>
+  <img src="Recursos/Imágenes/ods12.png" width="540"/>
+
 **¿Quiénes somos?**  
 Somos un grupo de estudiantes del curso Fundamentos de Diseño, comprometidos en aplicar la creatividad y el pensamiento crítico para desarrollar soluciones innovadoras que aporten al desarrollo sostenible.
 
