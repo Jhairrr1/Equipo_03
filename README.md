@@ -34,7 +34,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 ## 📸 Fotografía del Equipo
 <p align="center">
   <img src="Recursos/Imágenes/imagen grupal.png" width="400"/>
-</p>Equipo 03
+</p>                                       Equipo 03
 
 
 
