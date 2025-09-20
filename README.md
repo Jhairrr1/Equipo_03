@@ -31,12 +31,12 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 - **ODS 12**: Producción y consumo responsable
 
 
-
 ## 📸 Fotografía del Equipo
+<p align="center">
+  <img src="Recursos/Imágenes/imagen grupal.png" width="400"/>
+</p>Equipo 03
 
-<img src="Recursos/Imágenes/imagen grupal.png" width="540"/>
-  
-**Equipo 03**
+
 
 ---
 ## 👥 Integrantes del Equipo
@@ -54,8 +54,9 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 ## 📌 Resumen Final
 
 ### 🌍 Proyecto ODS 12 - Fundamentos de Diseño
-
+<p align= "center">
   <img src="Recursos/Imágenes/ods12.png" width="540"/>
+</p>
 
 **¿Quiénes somos?**  
 Somos un grupo de estudiantes del curso Fundamentos de Diseño, comprometidos en aplicar la creatividad y el pensamiento crítico para desarrollar soluciones innovadoras que aporten al desarrollo sostenible.
