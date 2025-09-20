@@ -34,7 +34,7 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 ---
 
 ## 📸 Fotografía del Equipo
-*Foto grupal del equipo*  
+![Foto grupal del Equipo 03](imagen%20grupal.png)
 **Equipo 03**
 
 ---
@@ -43,16 +43,18 @@ Nuestro objetivo es aplicar la metodología de diseño para generar soluciones i
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| | **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
-| | **Glicerio Leonel Urbano Castillo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| | **Pedro Jhair Cueva Tantalean** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| | **Junior Moises Aliaga Cueva** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| ![Yhonaiker Ramos Garay](integrante1.png)| **Yhonaiker Ramos Garay** | Líder del equipo | Innovación social, sostenibilidad |
+|![integrante2](integrante3.png)| **Glicerio Leonel Urbano Castillo** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| ![integrante3](integrante4.png)| **Pedro Jhair Cueva Tantalean** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| ![integrante4](integrante2.png)| **Junior Moises Aliaga Cueva** | Encargado/a de documentación | Comunicación científica, redacción técnica |
 
 ---
 
 ## 📌 Resumen Final
 
 ### 🌍 Proyecto ODS 12 - Fundamentos de Diseño
+
+![alt text](ods12.png)
 
 **¿Quiénes somos?**  
 Somos un grupo de estudiantes del curso Fundamentos de Diseño, comprometidos en aplicar la creatividad y el pensamiento crítico para desarrollar soluciones innovadoras que aporten al desarrollo sostenible.
