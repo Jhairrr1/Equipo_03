@@ -66,7 +66,7 @@ href="https://worldwide.espacenet.com/patent/search?q=pn%3DUS11341520B2"><mark><
 </tr>
 <tr class="odd">
 <th><p>RESUMEN:</p>
-<p>850 / 5.000</p>
+
 <p><mark>Un sistema de consejería en línea puede recibir imágenes
 multiángulo de varios artículos de supermercado disponibles en una
 tienda física. Cada artículo se asocia con una o más imágenes
