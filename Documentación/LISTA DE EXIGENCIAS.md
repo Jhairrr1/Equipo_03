@@ -12,7 +12,7 @@
 |||**Revisado:**||
 |**CLIENTE:**|**UNIVERSIDAD PERUANA CAYETANO HEREDIA**|<p>**Elaborado:**</p><p>`    `**JR, MS,LN,YK**</p>||
 |Fecha (cambios)|Deseo o Exigencia|**Descripción**|<p>**Responsable**</p><p></p>|
-|**25/09/25**|<p></p><p></p><p>E</p>|<p>**Función Principal (APP):** Otorga la opción de** registrar a dueños de pequeñas bodegas con el objetivo de promocionar productos próximos a vencer , generando un respectivo descuento al producto. </p><p>**FUNCIÓN PRINCIPAL (escáner):** Escanear  códigos de barras de determinados lotes de productos de consumo humano, para identificar su fecha de vencimiento y enviarlo al APP.</p>|<p></p><p>      </p><p>LN</p>|
+|**25/09/25**|<p></p><p></p><p>E</p>|<p>**Función Principal (APP):** Otorgar la opción de registrar a dueños de pequeñas bodegas con el objetivo de promocionar productos próximos a vencer , generando un respectivo descuento al producto. </p><p>**FUNCIÓN PRINCIPAL (escáner):** Escanear  códigos de barras de determinados lotes de productos de consumo humano, para identificar su fecha de vencimiento y enviarlo al APP.</p>|<p></p><p>      </p><p>LN</p>|
 |**25/09/25**|<p></p><p></p>|<p>**Geometría (escáner):**  </p><p>Forma de pistola lectora con mango ergonómico de 148 mm de altura y 102 mm de largo. Lee códigos en cualquier orientación hasta 180°, con precisión mínima del 90% y tiempo de respuesta menor a 20 milisegundos.[(1)](https://www.zotero.org/google-docs/?broken=36TaMA)</p>|YK|
 |**25/09/25**|E|**Cinemática (escáner)**: Un rango aproximado al escanear de 10 cm con una velocidad media de 2500 lecturas por segundo (scans/segundo), (ISO 24553).|<p></p><p>LN</p>|
 |**25/09/25**|E|**Fuerzas (escáner):** Durante el momento de presionar el botón de encendido, la fuerza no debe ser mayor a 8N para evitar una ruptura o atascamiento del material (ISO 24553) .|<p>        </p><p>`         `JR</p>|
@@ -54,6 +54,7 @@
 7\. Perú. (2011). *Ley de Seguridad y Salud en el Trabajo*. Ley Nº 29783: <https://diariooficial.elperuano.pe/Normas/obtenerDocumento?idNorma=38>
 
 8 .ISO. (2023). *ISO 24553:2023 – Ergonomics — Accessible design — Controls, actuators and operability: minimum specifications*. International Organization for Standardization. <https://www.iso.org/standard/82984.html> 
+
 
 
 
