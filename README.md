@@ -123,7 +123,7 @@ Diseñar e implementar un sistema automatizado de monitoreo térmico en tiempo r
 | ---------------------------- | ----------------------------------------- | ------------------------------------------ |
 | **Sensores**                 | DS18B20 / PT100                           | Medición térmica de alta precisión         |
 | **Microcontrolador**         | ESP32                                     | Procesamiento y transmisión de datos       |
-| **Comunicación**             | WiFi / GSM / GPS                          | Conectividad y localización en tiempo real |
+| **Comunicación**             | WiFi                          | Conectividad y localización en tiempo real |
 | **Energía**                  | Batería recargable 1000mAh + respaldo 24h | Autonomía y seguridad                      |
 | **Software**                 | Dashboard Web + App móvil                 | Visualización, configuración y alertas     |
 | **Material del dispositivo** | Carcasa IP67                              | Resistente a agua, golpes y polvo          |
