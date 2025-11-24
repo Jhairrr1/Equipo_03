@@ -1,7 +1,7 @@
 **CEMMIT – Monitoreo inteligente de temperatura**  
 CEMMIT ofrece un sistema de monitoreo de temperatura y humedad basado en sensores inalámbricos Wi-Fi. Está diseñado para cadenas de frío que requieren un control permanente. Los sensores pueden enviar datos a la nube y generar reportes automáticos. Es una solución pensada para empresas que necesitan supervisión remota, alertas y trazabilidad.
 
-### **Funciones principales**
+### Funciones principales
 
 * Monitoreo continuo de temperatura y humedad.
 
