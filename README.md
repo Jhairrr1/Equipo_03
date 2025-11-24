@@ -139,9 +139,8 @@ Diseñar e implementar un sistema automatizado de monitoreo térmico en tiempo r
 | Peso                  | 500 g                                 |
 | Precisión del sensor  | ±0.2°C (PT100) / ±0.5°C (DS18B20)     |
 | Intervalo de muestreo | 30 s (ajustable)                      |
-| Comunicación          | WiFi / GSM / Bluetooth                |
+| Comunicación          | WiFi                                  |
 | Rango térmico         | -55°C a +125°C                        |
-| Protección ambiental  | IP67                                  |
 | Consumo energético    | 0.001727 mA                           |
 | Autonomía             | Hasta 6.6 años con batería de 1000mAh |
 | Puerto de carga       | USB-C                                 |
