@@ -107,7 +107,7 @@ Diseñar e implementar un sistema automatizado de monitoreo térmico en tiempo r
 
 2. **Módulo de Control** ⚙️
 
-   * Procesador **ESP32** con conectividad **WiFi, Bluetooth y SIM GSM**.
+   * Procesador **ESP32** con conectividad **WiFi**.
    * Algoritmos de control que detectan desviaciones térmicas y activan alertas inmediatas.
 
 3. **Módulo Web (Dashboard)** 💻
