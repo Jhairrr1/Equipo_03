@@ -121,7 +121,7 @@ Diseñar e implementar un sistema automatizado de monitoreo térmico en tiempo r
 
 | Categoría                    | Componente                                | Descripción                                |
 | ---------------------------- | ----------------------------------------- | ------------------------------------------ |
-| **Sensores**                 | DHT11   / PT100                           | Medición térmica de alta precisión         |
+| **Sensores**                 | DHT11                                     | Medición térmica de alta precisión         |
 | **Microcontrolador**         | ESP32                                     | Procesamiento y transmisión de datos       |
 | **Comunicación**             | WiFi                                      | Conectividad en tiempo real                |
 | **Energía**                  | Batería recargable 3000mAh                | Autonomía y seguridad                      |
@@ -211,7 +211,7 @@ La pérdida de alimentos por deficiencias en refrigeración representa un grave 
 
 ---
 
-## ♻️ Alineación con el ODS 12.2
+## ♻️ Alineación con el ODS 12.3
 
 | Meta ODS                                         | Aporte de COOLSENSE                                     |
 | ------------------------------------------------ | ------------------------------------------------------- |
