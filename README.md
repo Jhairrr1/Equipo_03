@@ -38,7 +38,7 @@ Buscamos integrar la tecnología con la sostenibilidad, desarrollando soluciones
 
 **ODS de Enfoque Principal:**
 
-* 🌱 **ODS 12.2:** Lograr la gestión sostenible y el uso eficiente de los recursos naturales.
+* 🌱 **ODS 12.3:** De aquí a 2030, reducir a la mitad el desperdicio de alimentos per capita mundial en la venta al por menor y a nivel de los consumidores y reducir las pérdidas de alimentos en las cadenas de producción y suministro, incluidas las pérdidas posteriores a la cosecha.
 
 ---
 
@@ -101,7 +101,7 @@ Diseñar e implementar un sistema automatizado de monitoreo térmico en tiempo r
 
 1. **Módulo Sensorial** 🧊
 
-   * Sensores **DS18B20** y **PT100** para alta precisión térmica.
+   * Sensores **DHT11** para alta precisión térmica de humedad.
    * Rango de operación: **-55°C a +125°C**
    * Frecuencia de muestreo ajustable (cada 30 segundos).
 
@@ -113,7 +113,7 @@ Diseñar e implementar un sistema automatizado de monitoreo térmico en tiempo r
 3. **Módulo Web (Dashboard)** 💻
 
    * Interfaz que permite **visualizar datos en tiempo real**, configurar rangos personalizados y descargar reportes históricos.
-   * Integración con **Firebase** para almacenamiento y comunicación en la nube.
+   * Integración con **RailWAY** para almacenamiento y comunicación en la nube.
 
 ---
 
@@ -121,13 +121,13 @@ Diseñar e implementar un sistema automatizado de monitoreo térmico en tiempo r
 
 | Categoría                    | Componente                                | Descripción                                |
 | ---------------------------- | ----------------------------------------- | ------------------------------------------ |
-| **Sensores**                 | DS18B20 / PT100                           | Medición térmica de alta precisión         |
+| **Sensores**                 | DHT11   / PT100                           | Medición térmica de alta precisión         |
 | **Microcontrolador**         | ESP32                                     | Procesamiento y transmisión de datos       |
 | **Comunicación**             | WiFi                                      | Conectividad en tiempo real                |
 | **Energía**                  | Batería recargable 3000mAh                | Autonomía y seguridad                      |
 | **Software**                 | Dashboard Web                             | Visualización, configuración y alertas     |
 | **Material del dispositivo** | Carcasa                                   | Resistente a golpes y polvo                |
-| **Almacenamiento**           | Firebase / MySQL                          | Registro histórico de temperatura          |
+| **Almacenamiento**           | RailWay                                   | Registro histórico de temperatura          |
 
 ---
 
@@ -137,12 +137,12 @@ Diseñar e implementar un sistema automatizado de monitoreo térmico en tiempo r
 | --------------------- | ------------------------------------- |
 | Dimensiones           | ≤ 12 × 8 × 5 cm                       |
 | Peso                  | 500 g                                 |
-| Precisión del sensor  | ±0.2°C (PT100) / ±0.5°C (DS18B20)     |
+| Precisión del sensor  | ±0.2°C / ±0.5°C (DHT11)       |
 | Intervalo de muestreo | 30 s (ajustable)                      |
 | Comunicación          | WiFi                                  |
 | Rango térmico         | -55°C a +125°C                        |
 | Consumo energético    | 0.001727 mA                           |
-| Autonomía             | Hasta 6.6 años con batería de 1000mAh |
+| Autonomía             | Hasta 6.6 años con batería de 3000mAh |
 | Puerto de carga       | USB-C                                 |
 
 ---
@@ -200,7 +200,7 @@ Implementar tecnologías IoT sostenibles que garanticen la inocuidad y trazabili
 
 ## 🔮 Visión
 
-Convertirnos en un referente nacional en innovación para la logística alimentaria inteligente, contribuyendo al cumplimiento del **ODS 12.2** mediante soluciones tecnológicas sostenibles.
+Convertirnos en un referente nacional en innovación para la logística alimentaria inteligente, contribuyendo al cumplimiento del **ODS 12.3** mediante soluciones tecnológicas sostenibles.
 
 ---
 
