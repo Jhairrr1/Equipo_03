@@ -140,7 +140,7 @@ Diseñar e implementar un sistema automatizado de monitoreo térmico en tiempo r
 | Precisión del sensor  | ±0.2°C / ±0.5°C (DHT11)       |
 | Intervalo de muestreo | 30 s (ajustable)                      |
 | Comunicación          | WiFi                                  |
-| Rango térmico         | -55°C a +125°C                        |
+| Rango térmico         | -5°C a 6°C                        |
 | Consumo energético    | 0.001727 mA                           |
 | Autonomía             | Hasta 6.6 años con batería de 3000mAh |
 | Puerto de carga       | USB-C                                 |
