@@ -102,7 +102,7 @@ Diseñar e implementar un sistema automatizado de monitoreo térmico en tiempo r
 1. **Módulo Sensorial** 🧊
 
    * Sensores **DHT11** para alta precisión térmica de humedad.
-   * Rango de operación: **-55°C a +125°C**
+   * Rango de operación: **-5°C a 7°C**
    * Frecuencia de muestreo ajustable (cada 30 segundos).
 
 2. **Módulo de Control** ⚙️
